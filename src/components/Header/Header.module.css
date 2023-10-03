@@ -1,0 +1,90 @@
+.header {
+    grid-area: header;
+    background-color:white;
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+}
+
+.gridHeader {
+  display: grid;
+  justify-content:space-around;
+  align-items: center;
+  position: relative;
+
+  grid-template-areas:
+  "logo nameFirma telephoneFirma menuSandwich";
+  "menuLine"
+
+  grid-template-rows: auto auto;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 0px;
+  }
+
+  .logo {
+    height: 8vh;
+    grid-area: logo;
+  }
+
+  .nameFirma {
+    grid-area: nameFirma;
+  }
+
+  .telephoneFirma {
+    grid-area: telephoneFirma;
+  }
+
+  .menuSandwich {
+    grid-area: menuSandwich;
+  }
+
+  .imageHeader {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .textHeader {
+    top: 10%;
+    left: 10%;
+    transform: translate(-0%, -1050%);
+    color:brown;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+
+  @media screen and (max-width:768px) {
+    .logo {
+      height: 8vh;
+    }
+    h1 {
+      font-size: 16px;
+    }
+    .telephoneFirma {
+      display:inline;
+    }
+    .nameFirma {
+      display:none;
+    }
+  }
+
+.menuLine {
+  grid-area: menuLine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  list-style-type: none;
+}
+
+.menuLine div {
+  flex: 1;
+  text-align: center;
+}
+
+.menuLine div a {
+  text-decoration: none;
+  color: #000;
+}
