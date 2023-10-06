@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/rovshenklichev/yara-tech-website.git/static/css/main.77bb338a.css",
-    "main.js": "/rovshenklichev/yara-tech-website.git/static/js/main.fc7236f8.js",
-    "static/css/838.4554e008.chunk.css": "/rovshenklichev/yara-tech-website.git/static/css/838.4554e008.chunk.css",
-    "static/js/838.27e547a0.chunk.js": "/rovshenklichev/yara-tech-website.git/static/js/838.27e547a0.chunk.js",
+    "main.css": "/rovshenklichev/yara-tech-website.git/static/css/main.ff8a6fe3.css",
+    "main.js": "/rovshenklichev/yara-tech-website.git/static/js/main.121710bd.js",
     "static/js/787.c94c709c.chunk.js": "/rovshenklichev/yara-tech-website.git/static/js/787.c94c709c.chunk.js",
-    "static/media/2.jpg": "/rovshenklichev/yara-tech-website.git/static/media/2.4bf42468e388c6e9d293.jpg",
-    "static/media/1.jpg": "/rovshenklichev/yara-tech-website.git/static/media/1.8dbee1c2f9b3936d1f55.jpg",
-    "static/media/3.jpg": "/rovshenklichev/yara-tech-website.git/static/media/3.8396153cab134fd17fd4.jpg",
-    "static/media/logo.png": "/rovshenklichev/yara-tech-website.git/static/media/logo.1e9d14c06989b18d9e6f.png",
-    "static/media/spinner.svg": "/rovshenklichev/yara-tech-website.git/static/media/spinner.7aee23255479263f69cfccbdd8054035.svg",
+    "static/media/3.jpg": "/rovshenklichev/yara-tech-website.git/static/media/3.8b25cf75029ab6f3d477.jpg",
+    "static/media/1.jpg": "/rovshenklichev/yara-tech-website.git/static/media/1.e15964f50022bace62d6.jpg",
+    "static/media/5.jpg": "/rovshenklichev/yara-tech-website.git/static/media/5.e541e93f9c1c6bfe7b18.jpg",
+    "static/media/4.jpg": "/rovshenklichev/yara-tech-website.git/static/media/4.c3791ec1d46a63d9efb3.jpg",
+    "static/media/2.jpg": "/rovshenklichev/yara-tech-website.git/static/media/2.54af8448d526e3a1863b.jpg",
+    "static/media/images.png": "/rovshenklichev/yara-tech-website.git/static/media/images.aae46158125627785b2f.png",
     "index.html": "/rovshenklichev/yara-tech-website.git/index.html",
-    "main.77bb338a.css.map": "/rovshenklichev/yara-tech-website.git/static/css/main.77bb338a.css.map",
-    "main.fc7236f8.js.map": "/rovshenklichev/yara-tech-website.git/static/js/main.fc7236f8.js.map",
-    "838.4554e008.chunk.css.map": "/rovshenklichev/yara-tech-website.git/static/css/838.4554e008.chunk.css.map",
-    "838.27e547a0.chunk.js.map": "/rovshenklichev/yara-tech-website.git/static/js/838.27e547a0.chunk.js.map",
+    "main.ff8a6fe3.css.map": "/rovshenklichev/yara-tech-website.git/static/css/main.ff8a6fe3.css.map",
+    "main.121710bd.js.map": "/rovshenklichev/yara-tech-website.git/static/js/main.121710bd.js.map",
     "787.c94c709c.chunk.js.map": "/rovshenklichev/yara-tech-website.git/static/js/787.c94c709c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77bb338a.css",
-    "static/js/main.fc7236f8.js"
+    "static/css/main.ff8a6fe3.css",
+    "static/js/main.121710bd.js"
   ]
 }
